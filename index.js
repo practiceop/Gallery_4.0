@@ -82,7 +82,7 @@ document.querySelector('.btn:not(.color-btn):not(.music-btn)').addEventListener(
     const transition = document.querySelector('.page-transition');
     transition.style.opacity = '1';
     setTimeout(() => {
-        window.location.href = 'gallary.html'; // Make sure this matches your gallery page filename
+        window.location.href = 'Gallary.html'; // Make sure this matches your gallery page filename
     }, 1000);
 });
 
